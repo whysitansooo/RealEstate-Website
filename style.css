@@ -23,7 +23,7 @@ html{
 }
 
 body{
-    background:linear-gradient(rgba(255, 255, 255, 0.233), rgba(255, 255, 255, 0.251)),url(/home\ green.jpg);
+    background:linear-gradient(rgba(255, 255, 255, 0.233), rgba(255, 255, 255, 0.251)),url(./images/back.jpg);
 
 }
 
